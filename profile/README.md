@@ -12,7 +12,7 @@ blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
 
 - Repositories are to follow the naming convention of "\<classNumber\>-\<assignmentName\>". Example: "402-Project-1"
 
-- Variables are in camelCase, with the first letter in lowercase unless it is refering to a Class.
+- Variables are in camelCase, with the first letter in lowercase unless it is refering to a Class. The name of the variable should clearly describe what value it is meant to hold. If you regularly find yourself asking "what was this for?" or "which one is this?", you have not named your variables well.
 
 # Best Practices
 
