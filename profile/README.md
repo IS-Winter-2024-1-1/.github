@@ -8,7 +8,7 @@ blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
 
 # Naming Conventions
 
-- Repositories are to follow the naming convention of "<classNumber>-<assignmentName>". Example: "402-Project-1"
+- Repositories are to follow the naming convention of "\<classNumber\>-\<assignmentName\>". Example: "402-Project-1"
 
 - Variables are in camelCase, with the first letter in lowercase unless it is refering to a Class.
 
