@@ -12,7 +12,8 @@ blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
 
 - Repositories are to follow the naming convention of "\<classNumber\>-\<assignmentName\>". Example: "402-Project-1"
 
-- Variables are in camelCase, with the first letter in lowercase unless it is refering to a Class. The name of the variable should clearly describe what value it is meant to hold. If you regularly find yourself asking "what was this for?" or "which one is this?", you have not named your variables well.
+- Variables are in camelCase, with the first letter in lowercase unless it is refering to a Class. The name of the variable should clearly describe what value it is meant to hold, and easily distiguish it from similar variables. If you regularly find yourself asking "what was this for?" or "which one was this?", you have not named your variables well.
+  - Iterables may be given single-character names (i, x, y, z). If you need to use multiple iterables simultaneously (such as in a nested "for" loop), give them unique and descriptive names (such as "personIterable", "customerIterable", "orderIterable", etc).
 
 # Best Practices
 
