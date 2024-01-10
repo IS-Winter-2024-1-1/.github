@@ -17,5 +17,6 @@ blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
 
 # Best Practices
 
-- The "main" branch is not to be commited directly to. When there is a change to be made, the developer makes a new branch off of main that they can work on and commit to as they please. When the change is ready, a pull request to main is made, and is approved by another developer when the task meets the definition of done (code reviewed, demo to PO, etc). 
-- Comments should be complete sentences and end with appropriate punctuation. With that being said, this isn't your American Heritage essay either. If something is important, EXPRESS IT!!! Be liberal and have fun with your comments, and pretend you're actually talking to someone.  
+- The "main" branch is not to be commited directly to. When there is a change to be made, the developer makes a new branch off of main that they can work on and commit to as they please. When the change is ready for review, a pull request to main is made. The PR is approved by another developer when the task meets the definition of done (code reviewed, demo to PO, etc). 
+- Comments should be complete sentences and end with appropriate punctuation. With that being said, this isn't your American Heritage essay either. If something is important, EXPRESS IT!!! Be liberal and have fun with your comments, and pretend you're actually talking to someone.
+- While not a hard rule, try to avoid exceeding 100 characters in a single line. It just makes everything easier to look at. :)
