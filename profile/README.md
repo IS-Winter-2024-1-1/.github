@@ -1,6 +1,5 @@
 # General Info
 
-(None of this is final, just an example of what all we need to agree on. We can also amend this as we go.)
 
 blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
 
